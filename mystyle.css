@@ -1,0 +1,23 @@
+img {width: 500px;px;}
+
+body {
+    font-family:"Lucida Console", "Courier New", monospace;
+    background-color: blue;
+    color:aliceblue
+}
+
+.mainarticle {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5em;
+    margin-right: 33%;
+    color: brown;
+}
+
+.tableauPlaceholder {
+    margin-left:22% ;
+}
+
+.video {
+margin-top: 10%;
+margin-bottom: 5%;
+}
